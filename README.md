@@ -1,16 +1,20 @@
 <h1 align="center">⚡ John Weider (Zeus) ⚡</h1>
 
 <p align="center">
-  <strong>Cybersecurity | Game Protection | Development</strong>
+  <strong>Cybersecurity | Game Protection | Developer</strong>
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Sempre fui movido pela curiosidade.  
-Antes mesmo da faculdade, buscava entender **como as coisas funcionam**.  
-Hoje atuo no desenvolvimento de ferramentas para **cibersegurança** e **proteção de jogos**.
+Sempre fui movido pela **curiosidade** — antes mesmo da faculdade, já desbravava o desconhecido, aprendendo sozinho a construir, proteger e evoluir sistemas.  
+Hoje mergulho no mundo da **cibersegurança** e **proteção de jogos**, criando soluções robustas e inteligentes.
+
+Minha jornada é guiada por uma filosofia simples:  
+> _"A curiosidade abre portas que o ensino formal nunca alcança."_
+
+Sou um eterno aprendiz e um construtor incansável.
 
 ---
 
@@ -23,25 +27,25 @@ Hoje atuo no desenvolvimento de ferramentas para **cibersegurança** e **proteç
 ## 💻 Tecnologias
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell-0d0d0d?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-0d0d0d?style=for-the-badge&logo=protonvpn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-1E90FF?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-6A0DAD?style=for-the-badge&logo=protonvpn&logoColor=white"/>
 </div>
 
 ---
 
 ## ⚡ Projetos em Destaque
 
-- [Argos Gate](https://github.com/j0hnWeider/argos-gate) — Ferramenta avançada para detecção de processos suspeitos e DLL Injection.
+- [Argos Gate](https://github.com/j0hnWeider/argos-gate) — Ferramenta avançada para detecção de processos suspeitos e proteção contra DLL Injection, focada em segurança de jogos e sistemas.
 
 ---
 
 ## 🌩️ Missão
 
 **Criar. Proteger. Evoluir.**  
-_A curiosidade é o trovão que move a mente._
+_A curiosidade é o trovão que move a mente e molda o futuro._
 
 ---
