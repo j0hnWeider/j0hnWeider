@@ -1,4 +1,4 @@
-<h1 align="center">⚡ John Weider (Zeus) ⚡</h1>
+<h1 align="center">⚡ John Weider ⚡</h1>
 
 <p align="center">
   <strong>Cybersecurity | Game Protection | Development</strong>
