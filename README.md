@@ -1,4 +1,4 @@
-<h1 align="center">⚡ John Weider ⚡</h1>
+<h1 align="center">⚡ John Weider (Zeus) ⚡</h1>
 
 <p align="center">
   <strong>Cybersecurity | Game Protection | Development</strong>
@@ -36,15 +36,6 @@ Hoje atuo no desenvolvimento de ferramentas para **cibersegurança** e **proteç
 ## ⚡ Projetos em Destaque
 
 - [Argos Gate](https://github.com/j0hnWeider/argos-gate) — Ferramenta avançada para detecção de processos suspeitos e DLL Injection.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=j0hnWeider&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=cccccc" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=j0hnWeider&theme=dark&hide_border=true&background=0d0d0d" width="48%"/>
-</div>
 
 ---
 
