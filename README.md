@@ -50,15 +50,3 @@ Aqui estão alguns dos meus projetos que compartilhei no GitHub:
 - **[Olimpo Shield](https://github.com/j0hnWeider/olimpo-shield)** - Sistema anticheat modular para proteger servidores de jogos online.
 - **[Cabal Server Setup](https://github.com/j0hnWeider/cabal-server-setup)** - Setup e configuração de servidores clássicos de **Cabal Online** (EP8), com foco em performance e segurança.
 
-## 💡 Filosofia
-
-Acredito que a **segurança digital** não é uma opção, mas uma **necessidade**. Em um mundo onde as ameaças estão em constante evolução, é meu trabalho garantir que os sistemas, dados e redes estejam sempre um passo à frente. Minha abordagem não é apenas sobre defender, mas também sobre **evoluir** e **melhorar continuamente**.
-
-## 📫 Vamos conversar!
-
-Se você está interessado em discutir sobre segurança, desenvolvimento de software ou qualquer outro tópico relacionado ao mundo digital, não hesite em me contatar!  
-Estou sempre aberto a **colaborações** e **novos desafios**.
-
----
-
-### *"A segurança digital não é uma opção, é uma necessidade. Meu trabalho é garantir que o impossível se torne possível."*
