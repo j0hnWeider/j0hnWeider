@@ -1,8 +1,6 @@
 # John Weider - Cibersegurança & Desenvolvimento de Software
 
-<p align="center">
-  <img src="https://repobeats.axiom.co/api/embed/ac0306709e63d15b4176d44917e4cd94d61c706c.svg" alt="Repobeats analytics image">
-</p>
+
 
 Sou **John Weider**, profissional de **cibersegurança** e **desenvolvimento de software**, apaixonado por **proteger sistemas**, **desvendar vulnerabilidades** e criar **soluções robustas** para ambientes digitais críticos.
 
@@ -48,10 +46,9 @@ Cada linha de código que escrevo é uma defesa contra o caos das ameaças ciber
 
 ---
 
-## 📜 Certificações
-
-- **ICSI | CNSS** – Certified Network Security Specialist
-
+<p align="center">
+  <img src="https://repobeats.axiom.co/api/embed/ac0306709e63d15b4176d44917e4cd94d61c706c.svg" alt="Repobeats analytics image">
+</p>
 ---
 
 ## 📈 Projetos
