@@ -48,5 +48,5 @@ Aqui estão alguns dos meus projetos que compartilhei no GitHub:
 
 - **[Argos Gate](https://github.com/j0hnWeider/argos-gate)** - Ferramenta de análise de processos suspeitos e detector de DLL injection para segurança de jogos.
 - **[Olimpo Shield](https://github.com/j0hnWeider/olimpo-shield)** - Sistema anticheat modular para proteger servidores de jogos online.
-- **[Cabal Server Setup](https://github.com/j0hnWeider/cabal-server-setup)** - Setup e configuração de servidores clássicos de **Cabal Online** (EP8), com foco em performance e segurança.
+- **[Vero](https://github.com/j0hnWeider/vero)** - O Vero é uma plataforma inovadora que permite a validação e verificação de documentos digitais de maneira segura e eficiente.
 
