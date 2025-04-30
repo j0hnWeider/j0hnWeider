@@ -1,7 +1,7 @@
 # John Weider - Cibersegurança & Desenvolvimento de Software
 
 <p align="center">
-  <img src="https://repobeats.axiom.co/api/embed/cde9cbb7d7689987a1aad00ab250011d55c3db9e.svg" alt="Repobeats analytics image">
+  <img src="https://repobeats.axiom.co/api/embed/ac0306709e63d15b4176d44917e4cd94d61c706c.svg" alt="Repobeats analytics image">
 </p>
 
 Sou **John Weider**, profissional de **cibersegurança** e **desenvolvimento de software**, apaixonado por **proteger sistemas**, **desvendar vulnerabilidades** e criar **soluções robustas** para ambientes digitais críticos.
