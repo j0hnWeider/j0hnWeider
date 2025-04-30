@@ -1,8 +1,12 @@
 # John Weider - Cibersegurança & Desenvolvimento de Software
 
+<p align="center">
+  <img src="https://repobeats.axiom.co/api/embed/cde9cbb7d7689987a1aad00ab250011d55c3db9e.svg" alt="Repobeats analytics image">
+</p>
+
 Sou **John Weider**, profissional de **cibersegurança** e **desenvolvimento de software**, apaixonado por **proteger sistemas**, **desvendar vulnerabilidades** e criar **soluções robustas** para ambientes digitais críticos.
 
-Minha jornada no universo digital foi moldada pela **curiosidade** e pela vontade de entender como as coisas funcionam, sempre buscando entender os detalhes que fazem a diferença entre sistemas seguros e vulneráveis.
+Minha jornada no universo digital foi moldada pela **curiosidade** e pela vontade de entender como as coisas funcionam, sempre buscando os detalhes que fazem a diferença entre sistemas seguros e vulneráveis.
 
 Ao longo dos anos, tenho me especializado em:
 - **Segurança de jogos** e **sistemas de redes**
@@ -12,15 +16,19 @@ Ao longo dos anos, tenho me especializado em:
 
 ## 🚀 Minha missão
 
-**Garantir que sistemas e dados estejam seguros**, **resistentes a ataques** e **capazes de evoluir** para enfrentar os desafios do futuro digital. Cada linha de código que escrevo é uma defesa contra o caos das ameaças cibernéticas, e cada vulnerabilidade descoberta é uma oportunidade de **melhoria** e **fortalecimento**.
+**Garantir que sistemas e dados estejam seguros**, **resistentes a ataques** e **capazes de evoluir** para enfrentar os desafios do futuro digital.  
+Cada linha de código que escrevo é uma defesa contra o caos das ameaças cibernéticas, e cada vulnerabilidade descoberta é uma oportunidade de **melhoria** e **fortalecimento**.
+
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-Abaixo estão algumas das tecnologias que utilizo regularmente em meus projetos:
-
 ### 💻 **Linguagens de Programação**
+[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=assemblyscript&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://golang.org/)
 [![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sql.org/)
@@ -38,15 +46,27 @@ Abaixo estão algumas das tecnologias que utilizo regularmente em meus projetos:
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
+---
+
 ## 📜 Certificações
 
 - **ICSI | CNSS** – Certified Network Security Specialist
+
+---
 
 ## 📈 Projetos
 
 Aqui estão alguns dos meus projetos que compartilhei no GitHub:
 
-- **[Argos Gate](https://github.com/j0hnWeider/argos-gate)** - Ferramenta de análise de processos suspeitos e detector de DLL injection para segurança de jogos.
-- **[Olimpo Shield](https://github.com/j0hnWeider/olimpo-shield)** - Sistema anticheat modular para proteger servidores de jogos online.
-- **[Vero](https://github.com/j0hnWeider/vero)** - O Vero é uma plataforma inovadora que permite a validação e verificação de documentos digitais de maneira segura e eficiente.
+- 🔐 **[Argos Gate](https://github.com/j0hnWeider/argos-gate)**  
+  Ferramenta de análise de processos suspeitos e detector de DLL injection para segurança de jogos.
 
+- 🛡️ **[Olimpo Shield](https://github.com/j0hnWeider/olimpo-shield)**  
+  Sistema anticheat modular para proteger servidores de jogos online.
+
+- 📄 **[Vero](https://github.com/j0hnWeider/vero)**  
+  Plataforma inovadora que permite a validação e verificação de documentos digitais de maneira segura e eficiente.
+
+---
+
+<p align="center"><strong>🧠 A segurança não é um produto. É um processo. — John Weider</strong></p>
