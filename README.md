@@ -75,19 +75,6 @@ My mission is to **build resilient systems** capable of withstanding modern cybe
 - Blockchain-inspired ledger system (beta stage)  
 - Multi-factor document authentication
 
----
-
-### 🧠 [BehaviorDataCollector](https://github.com/j0hnWeider/BehaviorDataCollector)  
-> Collects window class and process data for behavior-based cheat detection  
-- Designed to integrate with game anticheat engines  
-- Customizable rule-based detection engine
-
----
-
-### 🔧 [HWID License Validator](https://github.com/j0hnWeider/HWIDLicenseValidator)  
-> Generates secure hardware fingerprints for licensing and access control  
-- Machine-bound token generation  
-- AES-encrypted handshake and validation  
 
 ---
 
