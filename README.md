@@ -52,7 +52,7 @@ I lead the development of **Olimpo Shield**, a modular anticheat solution inspir
 
 ## 🚀 Featured Projects
 
-### 🛡️ [Olimpo Shield](https://github.com/j0hnWeider/OlimpoShield)  
+### 🛡️ [Olimpo Shield]([https://github.com/j0hnWeider/OlimpoShield](https://github.com/j0hnWeider/Olimpo_Shield))  
 > Modular anticheat system for MMORPG servers (inspired by Xigncode)  
 - Detects DLL injection, debuggers, and sandbox environments  
 - Integrates HWID licensing and encrypted fingerprinting  
