@@ -1,27 +1,25 @@
-# John Weider — Cybersecurity & Software Engineering
-
-I’m **John Weider**, a cybersecurity specialist and software engineer focused on protecting systems, discovering vulnerabilities, and developing robust solutions for critical digital environments.
-
-Driven by curiosity and precision, I specialize in creating defensive layers against digital threats, with a strong background in securing game servers, detecting automated bots, and preventing exploits at the system level.
+<h1 align="center">Hi there, I'm John Weider 👋</h1>
+<p align="center">Cybersecurity Specialist • C++ Developer • Game Security Architect</p>
 
 ---
 
-## 🎯 Mission
+### 🧠 About Me
 
-> _“Security is not a product — it’s a process.”_
+I'm a cybersecurity expert and low-level developer focused on building high-performance, anti-exploit systems for online games and real-time environments. With over a decade of experience, I specialize in creating robust anticheat engines, behavioral detection systems, and secure architectures for private MMORPG servers.
 
-My mission is to **build resilient systems** capable of withstanding modern cyber threats. Every line of code is written with intent: prevent attacks, detect anomalies, and reinforce digital infrastructure.
+I lead the development of **Olimpo Shield**, a modular anticheat solution inspired by top-tier systems like Xigncode, tailored for classic EP8 servers and beyond.
 
 ---
 
-## 🧠 Core Skills
+### 🛠️ Tech Stack & Skills
 
-- Anti-cheat systems for online games (MMORPGs, private servers)
-- Malware detection & behavioral monitoring
-- Reverse engineering & binary analysis
-- Network security & exploit mitigation
-- DLL injection detection & sandbox evasion
-- HWID licensing & secure authentication
+- **Languages:** C, C++, Assembly (x86), Batch, Python (basic)
+- **Game Protection:** Anti-DLL injection, HWID licensing, anti-debug, process scanning
+- **Reverse Engineering:** Static and dynamic analysis, signature detection
+- **Platforms:** Windows (WinAPI), x86 architecture
+- **Security:** Behavioral fingerprinting, window class tracking, digital signature verification
+- **Tools:** x64dbg, IDA, Visual Studio, Git, PE-bear, Cheat Engine (for testing)
+- **Dev Practices:** Clean architecture, modular design, security-first coding
 
 ---
 
@@ -75,15 +73,27 @@ My mission is to **build resilient systems** capable of withstanding modern cybe
 - Blockchain-inspired ledger system (beta stage)  
 - Multi-factor document authentication
 
+---
+
+### 📫 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/john-weider-98bb041b2/)
+- 📧 Email: johnweider.tj@gmail.com
+- 🛠️ GitHub: [github.com/j0hnWeider](https://github.com/j0hnWeider)
 
 ---
 
+### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://repobeats.axiom.co/api/embed/ac0306709e63d15b4176d44917e4cd94d61c706c.svg" alt="Repobeats analytics image">
+  <img src="https://github-readme-stats.vercel.app/api?username=j0hnWeider&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=j0hnWeider&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
 
-📬 **Let’s connect:**  
-If you're looking for a cybersecurity engineer with a passion for defense, analysis, and automation — feel free to reach out via [LinkedIn](https://www.linkedin.com/) or message me here on GitHub.
+### ⚔️ Motto
 
+> _"Code is my shield. Security is my battlefield."_  
+> — John Weider
