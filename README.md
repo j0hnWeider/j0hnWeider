@@ -1,69 +1,102 @@
-# John Weider - Cibersegurança & Desenvolvimento de Software
+# John Weider — Cybersecurity & Software Engineering
 
+I’m **John Weider**, a cybersecurity specialist and software engineer focused on protecting systems, discovering vulnerabilities, and developing robust solutions for critical digital environments.
 
-
-Sou **John Weider**, profissional de **cibersegurança** e **desenvolvimento de software**, apaixonado por **proteger sistemas**, **desvendar vulnerabilidades** e criar **soluções robustas** para ambientes digitais críticos.
-
-Minha jornada no universo digital foi moldada pela **curiosidade** e pela vontade de entender como as coisas funcionam, sempre buscando os detalhes que fazem a diferença entre sistemas seguros e vulneráveis.
-
-Ao longo dos anos, tenho me especializado em:
-- **Segurança de jogos** e **sistemas de redes**
-- **Proteção contra exploits**, **bots automatizados** e **fraudes digitais**
-- **Desenvolvimento de soluções antifraude** e **sistemas de segurança robustos**
-- **Análise e mitigação de ameaças cibernéticas**
-
-## 🚀 Minha missão
-
-**Garantir que sistemas e dados estejam seguros**, **resistentes a ataques** e **capazes de evoluir** para enfrentar os desafios do futuro digital.  
-Cada linha de código que escrevo é uma defesa contra o caos das ameaças cibernéticas, e cada vulnerabilidade descoberta é uma oportunidade de **melhoria** e **fortalecimento**.
+Driven by curiosity and precision, I specialize in creating defensive layers against digital threats, with a strong background in securing game servers, detecting automated bots, and preventing exploits at the system level.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🎯 Mission
 
-### 💻 **Linguagens de Programação**
-[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
-[![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=assemblyscript&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://golang.org/)
-[![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sql.org/)
+> _“Security is not a product — it’s a process.”_
 
-### 🔐 **Ferramentas de Segurança**
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A3?style=flat&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
-[![Metasploit](https://img.shields.io/badge/Metasploit-3B9D91?style=flat&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-660000?style=flat&logo=burp&logoColor=white)](https://portswigger.net/burp)
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali&logoColor=white)](https://www.kali.org/)
-[![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat&logo=nmap&logoColor=white)](https://nmap.org/)
+My mission is to **build resilient systems** capable of withstanding modern cyber threats. Every line of code is written with intent: prevent attacks, detect anomalies, and reinforce digital infrastructure.
 
-### ⚙️ **Outras Tecnologias**
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+---
+
+## 🧠 Core Skills
+
+- Anti-cheat systems for online games (MMORPGs, private servers)
+- Malware detection & behavioral monitoring
+- Reverse engineering & binary analysis
+- Network security & exploit mitigation
+- DLL injection detection & sandbox evasion
+- HWID licensing & secure authentication
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 Programming Languages  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=assemblyscript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
+
+### 🔐 Security Tools  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A3?style=flat&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-3B9D91?style=flat&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-660000?style=flat&logo=burp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat&logo=nmap&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali&logoColor=white)
+
+### ⚙️ Other Tools & Platforms  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ [Olimpo Shield](https://github.com/j0hnWeider/OlimpoShield)  
+> Modular anticheat system for MMORPG servers (inspired by Xigncode)  
+- Detects DLL injection, debuggers, and sandbox environments  
+- Integrates HWID licensing and encrypted fingerprinting  
+- Designed for EP8 classic game server protection
+
+---
+
+### 🔐 [Argos Gate](https://github.com/j0hnWeider/argos-gate)  
+> Suspicious process analyzer and DLL injection detector  
+- Scans for blacklisted process names, handles, and thread patterns  
+- Real-time monitoring of memory allocations and hooks  
+
+---
+
+### 📄 [Vero](https://github.com/j0hnWeider/vero)  
+> Secure digital document validation platform  
+- Creates immutable digital signatures for file verification  
+- Blockchain-inspired ledger system (beta stage)  
+- Multi-factor document authentication
+
+---
+
+### 🧠 [BehaviorDataCollector](https://github.com/j0hnWeider/BehaviorDataCollector)  
+> Collects window class and process data for behavior-based cheat detection  
+- Designed to integrate with game anticheat engines  
+- Customizable rule-based detection engine
+
+---
+
+### 🔧 [HWID License Validator](https://github.com/j0hnWeider/HWIDLicenseValidator)  
+> Generates secure hardware fingerprints for licensing and access control  
+- Machine-bound token generation  
+- AES-encrypted handshake and validation  
 
 ---
 
 <p align="center">
   <img src="https://repobeats.axiom.co/api/embed/ac0306709e63d15b4176d44917e4cd94d61c706c.svg" alt="Repobeats analytics image">
 </p>
----
-
-## 📈 Projetos
-
-Aqui estão alguns dos meus projetos que compartilhei no GitHub:
-
-- 🔐 **[Argos Gate](https://github.com/j0hnWeider/argos-gate)**  
-  Ferramenta de análise de processos suspeitos e detector de DLL injection para segurança de jogos.
-
-- 🛡️ **[Olimpo Shield](https://github.com/j0hnWeider/olimpo-shield)**  
-  Sistema anticheat modular para proteger servidores de jogos online.
-
-- 📄 **[Vero](https://github.com/j0hnWeider/vero)**  
-  Plataforma inovadora que permite a validação e verificação de documentos digitais de maneira segura e eficiente.
 
 ---
 
-<p align="center"><strong>🧠 A segurança não é um produto. É um processo. — John Weider</strong></p>
+📬 **Let’s connect:**  
+If you're looking for a cybersecurity engineer with a passion for defense, analysis, and automation — feel free to reach out via [LinkedIn](https://www.linkedin.com/) or message me here on GitHub.
+
