@@ -2,7 +2,7 @@
 
 ### 🛠️ Tech Stack & Skills
 
-- **Languages:** C, C++, Assembly (x86), Batch, Python (basic)
+- **Languages:** C#, C, C++, Assembly (x86), Batch, Python (basic)
 - **Game Protection:** Anti-DLL injection, HWID licensing, anti-debug, process scanning
 - **Reverse Engineering:** Static and dynamic analysis, signature detection
 - **Platforms:** Windows (WinAPI), x86 architecture
