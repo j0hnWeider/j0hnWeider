@@ -1,15 +1,4 @@
 <h1 align="center">Hi there, I'm John Weider 👋</h1>
-<p align="center">Cybersecurity Specialist • C++ Developer • Game Security Architect</p>
-
----
-
-### 🧠 About Me
-
-I'm a cybersecurity expert and low-level developer focused on building high-performance, anti-exploit systems for online games and real-time environments. With over a decade of experience, I specialize in creating robust anticheat engines, behavioral detection systems, and secure architectures for private MMORPG servers.
-
-I lead the development of **Olimpo Shield**, a modular anticheat solution inspired by top-tier systems like Xigncode, tailored for classic EP8 servers and beyond.
-
----
 
 ### 🛠️ Tech Stack & Skills
 
