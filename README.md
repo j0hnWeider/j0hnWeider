@@ -2,7 +2,7 @@
 
 ---
 
-## 👨‍💻 Sobre  
+ 
 Desenvolvedor full‑stack com foco em segurança de software, sistemas distribuídos e soluções empresariais. Experiência sólida com backend em Java e .NET, automação, análise de dados e segurança para plataformas Windows.
 
 ---
@@ -65,7 +65,7 @@ Sistema distribuído de gerenciamento de pedidos utilizando .NET Core, RabbitMQ,
 ## 📫 Contato  
 - 📧 johnweider.tj@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/john-weider-98bb041b2/)  
-- 🛠️ [GitHub](https://github.com/j0hnWeider)
+
 
 ---
 
