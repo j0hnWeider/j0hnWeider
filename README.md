@@ -37,30 +37,7 @@ Desenvolvedor full‑stack com foco em segurança de software, sistemas distribu
 - **Análise de Dados / IA:** Python, pandas, scikit-learn, Jupyter  
 - **DevOps:** GitHub Actions, CI/CD pipelines, Docker, Docker Compose, Grafana, Prometheus
 
----
 
-## 🚀 Projetos em Destaque
-
-- 🧾 **[GestCon](https://github.com/j0hnWeider/GestCon)**  
-Sistema de gestão de contratos desenvolvido com **Java (Spring Boot)**, **Thymeleaf**, **HTML/CSS** e **JavaScript**.  
-Inclui controle de fornecedores, contratos, vigência, renovação e auditoria, com autenticação e autorização.
-
-- 🛡️ **[Olimpo Shield](https://github.com/j0hnWeider/Olimpo_Shield)**  
-Anticheat modular para servidores MMORPG (EP8), com proteção contra injeção de DLLs, HWID spoofing e sandbox detection.
-
-- 🔐 **[Argos Gate](https://github.com/j0hnWeider/Argos-Gate)**  
-Sistema de detecção de processos maliciosos e DLL injection (C++, Rust, Python e C#), com foco em segurança no Windows.
-
-- 📄 **[Vero](https://github.com/j0hnWeider/Vero)**  
-Plataforma de verificação de autenticidade de documentos, com assinaturas digitais imutáveis e verificação baseada em blockchain.
-
-- 🧠 **[CoreCast](https://github.com/j0hnWeider/CoreCast)**  
-Sistema de análise e previsão de dados industriais com Jupyter, pandas, matplotlib e scikit-learn.
-
-- 📦 **[OrderFlow](https://github.com/j0hnWeider/OrderFlow)**  
-Sistema distribuído de gerenciamento de pedidos utilizando .NET Core, RabbitMQ, Redis, MongoDB, PostgreSQL e observabilidade com Grafana e Prometheus.
-
----
 
 ## 📫 Contato  
 - 📧 johnweider.tj@gmail.com  
