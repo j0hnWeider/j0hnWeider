@@ -1,52 +1,68 @@
-<h1 align="center">John Weider 👋</h1>
+<h1 align="center">John Weider</h1>
+<p align="center">
+  <strong>DevSecOps & Application Security (AppSec) Engineer</strong><br>
+  <em>Bridging the gap between Low-Level Security, Backend Engineering, and Cloud Automation.</em>
+</p>
 
 <p align="center">
-  <strong>DevSecOps Engineer | Cloud Security | AppSec</strong>
+  <a href="https://www.linkedin.com/in/john-weider-98bb041b2/"><strong>LinkedIn</strong></a> · 
+  <a href="mailto:johnweider.tj@gmail.com"><strong>Email</strong></a>
 </p>
 
 ---
 
-Graduado em **Defesa Cibernética** e pós-graduando em **Engenharia de Software**. Unifico uma sólida bagagem de desenvolvimento backend (Java/.NET) e segurança de baixo nível com práticas modernas de cultura DevOps. 
+### 🌐 Sobre Mim
 
-Meu foco atual é a **automação da segurança (Shift Left)**: integrando análises de vulnerabilidades (SAST/SCA), gestão de segredos e conformidade diretamente nas esteiras de CI/CD, garantindo deploys rápidos, resilientes e seguros em ambientes Cloud.
+Sou graduado em **Defesa Cibernética** e pós-graduando em **Engenharia de Software**. Minha trajetória combina engenharia de software robusta (Java/.NET) com segurança profunda de sistemas (Rust/C++ e OS Internals).
+
+Minha atuação é focada na filosofia **Shift Left**: mover a segurança para o início do ciclo de desenvolvimento através da automação de esteiras CI/CD, blindagem de containers, análise estática de código (SAST/SCA) e infraestrutura segura como código (IaC). Compreendo não apenas como mitigar uma vulnerabilidade na nuvem, mas como ela opera a nível de código e memória.
 
 ---
 
-## 🧰 Tech Stack & Ferramentas
+### 🛡️ Core Expertise (O que eu resolvo)
+
+* **DevSecOps & CI/CD Pipelines:** Automação de processos de build, teste e auditoria de segurança preditiva com GitHub Actions.
+* **Segurança Aplicada (AppSec):** Implementação de esteiras SAST/SCA, criptografia, segurança em APIs (REST, gRPC) e gestão segura de segredos.
+* **System & Container Hardening:** Otimização de imagens Docker (Distroless/Alpine) para redução de superfície de ataque e mitigação de vulnerabilidades de SO.
+* **Segurança de Baixo Nível & OS Internals:** Experiência com WinAPI, mitigação de exploits, assinaturas binárias e engenharia reversa.
+
+---
+
+### 🧰 Tech Stack
+
+| Categoria | Tecnologias e Ferramentas |
+| :--- | :--- |
+| **Cloud & DevOps** | AWS (EC2, S3, SQS), Docker, Docker Compose, GitHub Actions, Terraform *(Em evolução)* |
+| **Linguagens Base** | Java (Spring Boot), C# (.NET Core), Rust, C++, Python, Go *(Básico)* |
+| **Segurança & Ops** | OpenSSL, Cryptography, WinAPI, Git, GitLeaks, SonarQube, Snyk |
+| **Data & Mensageria** | PostgreSQL, MongoDB, Redis, RabbitMQ |
+| **Observabilidade** | Grafana, Prometheus |
+
+---
+
+### 📂 Portfólio de Soluções & Cases Técnicos
+
+#### 🚀 [devsecops-pipeline-bootstrap](https://github.com/j0hnWeider/devsecops-pipeline-bootstrap) *(Em Construção)*
+**O Problema:** Vulnerabilidades de dependências e falhas críticas de segurança de código chegando ao ambiente de produção.
+**A Solução:** Um modelo de esteira CI/CD reutilizável usando GitHub Actions. O pipeline integra análises automáticas de SAST/SCA e bloqueia o deploy automaticamente caso segredos (API Keys) ou falhas críticas sejam detectados no código antes do empacotamento.
+
+#### 📦 [hardened-container-images](https://github.com/j0hnWeider/hardened-container-images) *(Em Construção)*
+**O Problema:** Imagens Docker genéricas que carregam pacotes desnecessários de SO, inflando o tamanho da imagem e introduzindo dezenas de CVEs de infraestrutura.
+**A Solução:** Um laboratório prático documentando a criação de imagens otimizadas e seguras (multi-stage builds e distroless) para ecossistemas Java e .NET, reduzindo vulnerabilidades de SO a zero.
+
+#### ⚙️ [Sec-Windows](https://github.com/j0hnWeider/Sec-Windows)
+**O Problema:** Necessidade de entender o comportamento defensivo do sistema operacional e manipulação de segurança em nível de binário.
+**A Solução:** Repositório com ferramentas e scripts focados em segurança interna do Windows, lidando com chamadas de sistema (WinAPI), anti-debugging e validação de assinaturas binárias em ambientes locais e corporativos.
+
+---
+
+### 📈 Metas Atuais (Q2-Q4 2026)
+* Conclusão da Especialização em Engenharia de Software 🎓
+* Certificação **AWS Certified Cloud Practitioner** ☁️
+* Certificação **HashiCorp Certified: Terraform Associate** 🛠️
+
+---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rust" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <sub><em>"Code is my shield. Security is my battlefield."</em></sub>
 </p>
-
-* **DevSecOps & Automação:** GitHub Actions, CI/CD Pipelines, Docker, Docker Compose, Verificação de assinatura binária.
-* **Segurança Aplicada (AppSec):** Análise estática e de dependências (SAST/SCA), OpenSSL, anti-debugging, criptografia, segurança em plataformas Windows (WinAPI).
-* **Infraestrutura & Nuvem:** AWS (SQS, EC2, S3), Terraform (em evolução), Observabilidade (Grafana, Prometheus).
-* **Linguagens & Ecossistema Backend:** Java (Spring Boot), .NET Core, C#, C++, Rust, Python, Go (básico).
-* **Mensageria & Bancos:** PostgreSQL, MongoDB, Redis, RabbitMQ.
-
----
-
-## 🛡️ Cases de Sucesso & Portfólio (Em Construção)
-
-* **[hardened-container-images](https://github.com/seu-usuario/hardened-container-images):** Arquitetura e construção de imagens Docker seguras, reduzindo a superfície de ataque e vulnerabilidades de SO (Distroless/Alpine).
-* **[devsecops-pipeline-bootstrap](https://github.com/seu-usuario/devsecops-pipeline-bootstrap):** Modelo de esteira CI/CD automatizada integrando análise de segurança de código e bloqueio preventivo de deploys inseguros.
-
----
-
-## 📫 Contato  
-* 📧 johnweider.tj@gmail.com  
-* 🔗 [LinkedIn](https://www.linkedin.com/in/john-weider-98bb041b2/)  
-
----
-
-> _"Code is my shield. Security is my battlefield."_  
-> — John Weider
