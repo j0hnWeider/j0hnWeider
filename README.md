@@ -28,7 +28,7 @@ pipeline_stages:
 
 # Webhook Trigger
 contact:
-  email: "johnweider.tj@gmail.com"
+  email: "zeus.programador@gmail.com"
   linkedin: "[https://www.linkedin.com/in/john-weider-98bb041b2/](https://www.linkedin.com/in/john-weider-98bb041b2/)"
 
 # Execution Status
