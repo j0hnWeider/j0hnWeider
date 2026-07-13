@@ -1,35 +1,40 @@
 ```yaml
 # Profile Configuration
 engineer: "John Weider"
-role: "DevSecOps & AppSec Engineer"
-focus: "Shift-Left Automation & Cloud Security"
+role: "Software Development Engineer in Test (SDET) & Quality Engineer"
+focus: "Shift-Left Test Automation, DevOps Engineering & Security Testing"
 
 # Core Architecture & Engineering Background
 background:
   - degree: "Cyber Defense"
-  - expertise: "Software Engineering"
-  - philosophy: "Treat security as code, not as an afterthought."
+  - postgrad: "Software Engineering"
+  - philosophy: "Software quality cannot exist without security, resilience, and architectural clean code."
 
-# Automated Quality & Security Gate (Skills)
+# Continuous Quality & Security Gate (Skills & Stack)
 pipeline_stages:
-  build_&_architecture:
-    languages: [Java, C#, Rust, C++]
+  test_automation:
+    api_testing: [REST Assured, Postman, SuperTest, JSON Schema Validation]
+    web_ui_testing: [Playwright, Cypress, Page Object Model (POM)]
+    performance_testing: [k6, JMeter, Load & Stress Simulation]
+    
+  software_engineering:
+    languages: [Java, C#, Rust, TypeScript, C++]
     frameworks: [Spring Boot, .NET Core]
     data_stores: [PostgreSQL, MongoDB, Redis, RabbitMQ]
     
-  security_&_hardening:
-    application_sec: [SAST, SCA, Cryptography, Secret Management]
-    system_sec: [OS Internals, WinAPI, Binary Verification]
+  security_testing_&_hardening:
+    application_sec: [DAST for APIs, SAST, SCA, OWASP Top 10 Test Cases, Token Verification]
+    system_sec: [OS Internals, Binary Verification, OSINT for QA]
     
-  ops_&_cloud_delivery:
+  ops_&_continuous_delivery:
     orchestration: [Docker, Docker Compose]
-    automation: [GitHub Actions, CI/CD Pipelines]
+    ci_cd_pipelines: [GitHub Actions, Automated Quality Gates]
     infrastructure: [AWS, Terraform]
 
 # Webhook Trigger
 contact:
   email: "johnweider.tj@gmail.com"
-  linkedin: "[https://www.linkedin.com/in/john-weider-98bb041b2/](https://www.linkedin.com/in/john-weider-98bb041b2/)"
+  linkedin: "https://www.linkedin.com/in/john-weider-98bb041b2/"
 
 # Execution Status
-status: "Shield active. Pipeline secure."
+status: "Quality gates fully operational. Code verified, resilient, and secure."
