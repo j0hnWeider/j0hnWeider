@@ -34,7 +34,7 @@ pipeline_stages:
 # Webhook Trigger
 contact:
   email: "johnweider.tj@gmail.com"
-  linkedin: "https://www.linkedin.com/in/john-weider-98bb041b2/"
+  linkedin: "https://www.linkedin.com/in/john-weider"
 
 # Execution Status
 status: "Quality gates fully operational. Code verified, resilient, and secure."
