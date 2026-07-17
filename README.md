@@ -31,10 +31,6 @@ pipeline_stages:
     ci_cd_pipelines: [GitHub Actions, Automated Quality Gates]
     infrastructure: [AWS, Terraform]
 
-# Webhook Trigger
-contact:
-  email: "johnweider.tj@gmail.com"
-  linkedin: "https://www.linkedin.com/in/john-weider"
 
 # Execution Status
 status: "Quality gates fully operational. Code verified, resilient, and secure."
