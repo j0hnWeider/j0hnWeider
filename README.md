@@ -18,9 +18,10 @@ pipeline_stages:
     performance_testing: [k6, JMeter, Load & Stress Simulation]
     
   software_engineering:
-    languages: [Java, C#, Rust, TypeScript, C++]
-    frameworks: [Spring Boot, .NET Core]
+    languages: [Java, C#, C++, Python, Rust, TypeScript]
+    frameworks: [Spring Boot, .NET Core, Flask, Django]
     data_stores: [PostgreSQL, MongoDB, Redis, RabbitMQ]
+    backend_arch: [Microservices, REST APIs, Event-Driven Architecture]
     
   security_testing_&_hardening:
     application_sec: [DAST for APIs, SAST, SCA, OWASP Top 10 Test Cases, Token Verification]
@@ -30,7 +31,6 @@ pipeline_stages:
     orchestration: [Docker, Docker Compose]
     ci_cd_pipelines: [GitHub Actions, Automated Quality Gates]
     infrastructure: [AWS, Terraform]
-
 
 # Execution Status
 status: "Quality gates fully operational. Code verified, resilient, and secure."
