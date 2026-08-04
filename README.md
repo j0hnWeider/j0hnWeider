@@ -1,15 +1,20 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="150" alt="Cyber GIF"/>
 
 # ⚡ John Weider
-*Software Development Engineer in Test (SDET) & Quality Engineer*
+**Software Development Engineer in Test (SDET) & Quality Engineer**
 
-Engenheiro focado em automação de testes *Shift-Left*, arquitetura de software e segurança de aplicações. Trabalho para garantir resiliência, automação contínua e qualidade desde as primeiras etapas do ciclo de desenvolvimento.
+Graduado em **Defesa Cibernética** com pós-graduação em **Engenharia de Software**. Atuo com foco em automação de testes *Shift-Left*, arquitetura de software e segurança de aplicações para garantir sistemas resilientes, seguros e contínuos desde as primeiras fases do desenvolvimento.
 
 ```yaml
 # Profile Configuration
 engineer: "John Weider"
 role: "Software Development Engineer in Test (SDET) & Quality Engineer"
 focus: "Shift-Left Test Automation, DevOps Engineering & Security Testing"
+
+# Academic Background
+education:
+  degree: "Cyber Defense"
+  postgrad: "Software Engineering"
 
 # Core Stack
 stack:
