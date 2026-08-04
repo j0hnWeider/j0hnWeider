@@ -1,6 +1,5 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="150" alt="Cyber GIF"/>
 
-# ⚡ John Weider
 **Software Development Engineer in Test (SDET) & Quality Engineer**
 
 Graduado em **Defesa Cibernética** com pós-graduação em **Engenharia de Software**. Atuo com foco em automação de testes *Shift-Left*, arquitetura de software e segurança de aplicações para garantir sistemas resilientes, seguros e contínuos desde as primeiras fases do desenvolvimento.
