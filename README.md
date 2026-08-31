@@ -2,7 +2,7 @@
 
 ⚡ John Weider
 
-**Software Development Engineer in Test (SDET) & Quality Engineer**
+**Software Development Engineer**
 
 Graduado em **Defesa Cibernética** com pós-graduação em **Engenharia de Software**. Atuo com foco em automação de testes *Shift-Left*, arquitetura de software e segurança de aplicações para garantir sistemas resilientes, seguros e contínuos desde as primeiras fases do desenvolvimento.
 
