@@ -2,15 +2,19 @@
 
 ⚡ John Weider
 
-**Software Development Engineer**
+**Software Engineer | DevSecOps | Software Architecture | Application Security**
 
 Graduado em **Defesa Cibernética** com pós-graduação em **Engenharia de Software**. Atuo com foco em automação de testes *Shift-Left*, arquitetura de software e segurança de aplicações para garantir sistemas resilientes, seguros e contínuos desde as primeiras fases do desenvolvimento.
 
 ```yaml
 # Profile Configuration
 engineer: "John Weider"
-role: "Software Development Engineer in Test (SDET) & Quality Engineer"
-focus: "Shift-Left Test Automation, DevOps Engineering & Security Testing"
+role: "Software Engineer"
+focus:
+  - DevSecOps
+  - Software Engineering
+  - Software Architecture
+  - Application Security
 
 # Academic Background
 education:
@@ -18,10 +22,45 @@ education:
   postgrad: "Software Engineering"
 
 # Core Stack
-stack:
-  automation: [Playwright, Cypress, REST Assured, k6]
-  languages:  [TypeScript, Python, Java, Rust]
-  devops_sec: [Docker, GitHub Actions, SAST/DAST, AWS]
+languages:
+  - Java
+  - TypeScript
+  - Python
+  - Rust
+  - C/C++
 
-# Execution Status
-status: "Quality gates fully operational. Code verified, resilient, and secure."
+engineering:
+  - Software Architecture
+  - Clean Architecture
+  - REST APIs
+  - Secure Coding
+  - Distributed Systems
+
+devsecops:
+  - Docker
+  - GitHub Actions
+  - CI/CD
+  - SAST
+  - DAST
+  - SCA
+  - AWS
+
+security:
+  - Application Security
+  - OWASP
+  - Vulnerability Analysis
+  - Security Testing
+  - Binary Analysis
+
+# Engineering Principles
+principles:
+  - Security by Design
+  - Automation First
+  - Infrastructure as Code
+  - Shift-Left Security
+  - Continuous Delivery
+  - Observability
+  - Resilient Systems
+
+# Current Mission
+status: "Engineering secure, scalable and resilient software."
