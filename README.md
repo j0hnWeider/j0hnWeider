@@ -6,4 +6,3 @@
 Graduado em Defesa Cibernética e pós-graduado em Engenharia de Software.
 Construo sistemas seguros e resilientes, com foco em arquitetura de software, DevSecOps, CI/CD e segurança de aplicações.
 
-```yaml
